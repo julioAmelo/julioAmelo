@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julioAmelo
 - 👀 I’m interested in games!
 - 🌱 I’m currently learning nothing but i want learn phyton and C#
-- 💞️ I’m looking to collaborate on devilop games
+- 💞️ I’m looking to collaborate on devilopment games
 - 📫 You can reach me by my email
 - 😄 Pronouns: Xburgue
 - ⚡ Fun fact: I started progamming because i wanted to make my own game
